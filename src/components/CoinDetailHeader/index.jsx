@@ -26,7 +26,6 @@ export default CoinDetailHeader;
 const styles = StyleSheet.create({
   container: {
     flexDirection: "row",
-    paddingHorizontal: 10,
     alignItems: "center",
     justifyContent: "space-between",
   },
